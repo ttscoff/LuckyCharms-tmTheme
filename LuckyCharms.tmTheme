@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>name</key>
@@ -363,12 +361,8 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#F92672</string>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -382,6 +376,137 @@
 				<string>#AE81FF</string>
 				<key>foreground</key>
 				<string>#F8F8F0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Emmet Preview</string>
+			<key>scope</key>
+			<string>region.accent</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MultiMarkdown Metadata</string>
+			<key>scope</key>
+			<string>meta.header.multimarkdown</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#AAAAAA66</string>
+				<key>foreground</key>
+				<string>#AAAAAA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MultiMarkdown Metadata</string>
+			<key>scope</key>
+			<string>meta.header.multimarkdown keyword.other, meta.header.multimarkdown string</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#AAAAAA66</string>
+				<key>foreground</key>
+				<string>#AAAAAA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Headline Marker</string>
+			<key>scope</key>
+			<string>punctuation.definition.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#49a3be</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Headline</string>
+			<key>scope</key>
+			<string>markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#AE81FF</string>
+				<key>background</key>
+				<string>#AE81FF22</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Code Block</string>
+			<key>scope</key>
+			<string>markup.raw.block.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#AAAAAA22</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Fenced Code Block</string>
+			<key>scope</key>
+			<string>markup.raw.code-fence</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#AAAAAA22</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Fenced Code Block Delimter</string>
+			<key>scope</key>
+			<string>meta.code-fence</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#AAAAAA22</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Block Quote</string>
+			<key>scope</key>
+			<string>markup.quote.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#AAAAAA22</string>
+				<key>foreground</key>
+				<string>#33333399</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown List Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.definition.list_item.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d072a9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Inline Link</string>
+			<key>scope</key>
+			<string>markup.underline.link.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+				<key>foreground</key>
+				<string>#33333366</string>
 			</dict>
 		</dict>
 	</array>
