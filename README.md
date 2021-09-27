@@ -1,7 +1,7 @@
-A light theme for Sublime Text. Imagine the end of a bowl of lucky charms with stained milk and a few marshmallows left.
+A light theme for Sublime Text, VS Code, and Vim. Imagine the end of a bowl of lucky charms with stained milk and a few marshmallows left.
 
-![](LuckyCharms.png)
+![Lucky Charms in Sublime Text](LuckyCharms.png)
 
 And a vim version...
 
-![](LuckyVim.jpg)
+![Lucky Charms in MacVim](LuckyVim.jpg)

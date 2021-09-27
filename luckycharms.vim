@@ -55,8 +55,11 @@ hi Statement ctermfg=132 ctermbg=NONE cterm=NONE guifg=#aa4f84 guibg=NONE gui=NO
 hi StorageClass ctermfg=64 ctermbg=NONE cterm=NONE guifg=#6f8000 guibg=NONE gui=italic
 hi String ctermfg=240 ctermbg=230 cterm=NONE guifg=#55585c guibg=#f0fecf gui=NONE
 hi Tag ctermfg=132 ctermbg=230 cterm=NONE guifg=#9e5781 guibg=#faefea gui=NONE
-hi Title ctermfg=237 ctermbg=NONE cterm=bold guifg=#383b3d guibg=NONE gui=bold
+hi Title ctermfg=237 ctermbg=230 cterm=bold guifg=#0b8db5 guibg=#d1f5f4 gui=bold
 hi Todo ctermfg=146 ctermbg=NONE cterm=inverse,bold guifg=#bcb9ca guibg=NONE gui=inverse,bold
+hi taskpaperContext ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#aa4f84 guibg=#fbf5e4 gui=NONE
+hi taskpaperProject ctermfg=237 ctermbg=230 cterm=bold guifg=#0b8db5 guibg=#d1f5f4 gui=bold
+hi taskpaperDone ctermfg=146 ctermbg=NONE cterm=inverse,bold guifg=#bcb9ca guibg=NONE gui=NONE
 hi Type ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi Underlined ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi rubyClass ctermfg=132 ctermbg=NONE cterm=NONE guifg=#aa4f84 guibg=NONE gui=NONE
